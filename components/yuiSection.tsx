@@ -15,8 +15,8 @@ export default function ProfileSection() {
                     </div>
                     <div className="px-6 grid grid-cols-1 gap-4 lg:grid-cols-3 pt-5">
                         
-                        <CardProfile Name="Yui" Uname="@yuineoi" Desc="
-                        Pemilik Bot whatsapp Yui Neoi👋" Color="danger" Image="https://media.discordapp.net/attachments/1125397316971528272/1140492754703614042/7ac1b4ed-125c-4e4b-9fd1-d9174b8e1808.png?width=255&height=453" Jobs="#TinjuDibalasTinju" LinkIG="https://instagram.com/yuineoi" TTL="Not Found"/>
+                        <CardProfile Name="NatzNvr" Uname="@nattafly" Desc="
+                        Pemilik Bot whatsapp NatzNvr👋" Color="danger" Image="https://media.discordapp.net/attachments/1125397316971528272/1140492754703614042/7ac1b4ed-125c-4e4b-9fd1-d9174b8e1808.png?width=255&height=453" Jobs="#TinjuDibalasTinju" LinkIG="https://instagram.com/nattafly" TTL="Not Found"/>
                         
                     </div>
                 </div>
