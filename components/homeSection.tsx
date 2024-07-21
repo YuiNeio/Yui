@@ -20,8 +20,8 @@ export default function HomeSection() {
                         <Image src={"/assets/bumi.webp"} width={400} height={400} alt="Maskot ITC" className=""/>
                     </div>
                     <div className="w-full text-center px-6">
-                        <h1 className="font-rubikFont lg:text-4xl font-bold text-shadowBox text-lg">Yui Neoi Bot Whatsapp!</h1>
-                        <h3 className="font-firaCode text-sm lg:text-2xl italic text-gray-400 lg:mb-10 mb-5">Selamat Datang di Website Yui Neoi </h3>
+                        <h1 className="font-rubikFont lg:text-4xl font-bold text-shadowBox text-lg">Chyper Bot Whatsapp!</h1>
+                        <h3 className="font-firaCode text-sm lg:text-2xl italic text-gray-400 lg:mb-10 mb-5">Selamat Datang di Website Chyper </h3>
                     </div>
                 </div>
 
@@ -36,12 +36,12 @@ export default function HomeSection() {
                         <AboutWe />
                     </div>
                     <div className="w-full lg:w-1/2 pt-5 px-6">
-                        <h1 className="font-firaCode lg:text-3xl font-bold text-shadowBox text-lg">Hello 👋, we are Yui Neoi</h1>
+                        <h1 className="font-firaCode lg:text-3xl font-bold text-shadowBox text-lg">Hello 👋, we are Chyper Bot</h1>
                         <a className="font-firaCode text-sm lg:text-2xl text-gray-400 lg:mb-10 mb-5 flex flex-wrap space-x-3">
                             <h1 className="pt-1"><HiChevronDoubleRight /></h1>
                             <TypedAnim />
                         </a>
-                        <p className="font-firaCode text-sm lg:text-lg font-thin text-gray-300 lg:w-11/12 mb-10">Yui Neoi adalah sebuah bot WhatsApp yang mulai beroperasi dari bulan ini. Bot ini dirancang untuk memberikan berbagai layanan dan fitur yang bermanfaat bagi penggunanya, seperti layanan informasi, bantuan otomatis, dan berbagai fitur interaktif lainnya. Pengguna dapat berinteraksi dengan Yui Neoi melalui pesan teks di platform WhatsApp, memanfaatkan kecerdasan buatan untuk mendapatkan respon yang cepat dan akurat.Bot ini dapat membantu dalam berbagai hal, mulai dari menjawab pertanyaan umum, memberikan rekomendasi, hingga membantu dalam tugas-tugas sehari-hari. Yui Neoi juga dapat diintegrasikan dengan berbagai sistem dan layanan lainnya, sehingga dapat memberikan solusi yang lebih komprehensif dan terintegrasi,Jika ada kerusakan & yang lain harap di wajarkan.</p>
+                        <p className="font-firaCode text-sm lg:text-lg font-thin text-gray-300 lg:w-11/12 mb-10">Chyper adalah sebuah bot WhatsApp yang mulai beroperasi dari bulan Mei. Bot ini dirancang untuk memberikan berbagai layanan dan fitur yang bermanfaat bagi penggunanya, seperti layanan informasi, bantuan otomatis, dan berbagai fitur interaktif lainnya. Pengguna dapat berinteraksi dengan Chyper melalui pesan teks di platform WhatsApp, memanfaatkan kecerdasan buatan untuk mendapatkan respon yang cepat dan akurat.Bot ini dapat membantu dalam berbagai hal, mulai dari menjawab pertanyaan umum, memberikan rekomendasi, hingga membantu dalam tugas-tugas sehari-hari. Chyper juga dapat diintegrasikan dengan berbagai sistem dan layanan lainnya, sehingga dapat memberikan solusi yang lebih komprehensif dan terintegrasi,Jika ada kerusakan & yang lain harap di wajarkan.</p>
                         <div className="grid grid-cols-8 lg:w-8/12">
                             <a className={`bg-black py-5 px-5`}></a>
                             <a className={`bg-red-400 py-5 px-5`}></a>
